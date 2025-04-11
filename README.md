@@ -10,8 +10,9 @@
 
 
 
-<h3 align="left">🛠 Tech Stack </h3>
-<h4 align="left">🧑‍💻 Languages</h4>
+## 🛠 Tech Stack
+
+### 🧑‍💻 Languages
 | 기술 | 숙련도 |
 |------|--------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐ |
@@ -20,8 +21,7 @@
 | ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ⭐⭐⭐ |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐ |
 
-
-<h4 align="left">🧱 Frameworks / Libraries</h4>
+### 🧱 Frameworks / Libraries
 | 기술 | 숙련도 |
 |------|--------|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ⭐⭐⭐ |
@@ -30,13 +30,13 @@
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ⭐⭐ |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ⭐⭐ |
 
-<h4 align="left">🗄️ Databases</h4>
+### 🗄️ Databases
 | 기술 | 숙련도 |
 |------|--------|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ⭐⭐⭐ |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐ |
 
-<h4 align="left">⚙️ Tools / DevOps</h4>
+### ⚙️ Tools / DevOps
 | 기술 | 숙련도 |
 |------|--------|
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ⭐⭐⭐ |
@@ -44,4 +44,5 @@
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ⭐⭐ |
 | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | ⭐ |
 | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ⭐⭐⭐⭐ |
+
 
