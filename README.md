@@ -102,12 +102,20 @@
 | 학부연구생, 랩장 | SysAI LAB            | 2023.07 ~ 2025.02   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/sysai_lab_certificate.pdf) |
 | 인턴 (개발팀)     | (주) 오솔정보기술     | 2024.10 ~ 2024.11   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/osol_internship.png) |
 | 인턴 (기술개발팀) | (주) 한국에너지기술단 | 2024.06 ~ 2024.08   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/kentech_internship.png) |
-| 학사 | 국립한밭대학교 컴퓨터공학과   | 2023.03 ~ 2025.02   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/graduation_certificate.png) |
+| 학사             | 국립한밭대학교 컴퓨터공학과 | 2023.03 ~ 2025.02   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/graduation_certificate.png) |
+
 ---
+
 <details>
 <summary><b>📄 대외활동 이력 보기</b></summary>
- ### 대외활동
 
+<br/>
+
+### 🌟 대외활동
+
+| 활동명                      | 역할 / 성격           | 기간              | 증빙 자료 |
+|-----------------------------|------------------------|-------------------|------------|
+| 예시:       | 오픈소스 해커톤 팀원   | 2023.08           | [보기](#) |
+| 예시:    | 팀장 / 개발 담당       | 2023.11           | [보기](#) |
 
 </details>
-
