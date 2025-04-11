@@ -29,7 +29,7 @@
 </td>
 <td valign="top">
 
-### 📦 Frameworks / Libraries
+### 📦 Frameworks
 
 | 기술 | 숙련도 |
 |------|--------|
