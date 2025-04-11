@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hi, I'm CHANGIN KIM – a junior backend developer from South Korea 🇰🇷</h1>
+<h1 align="center">👋 Hi, I'm CHANGIN KIM</h1>
+<h3 align="center">a junior backend developer from South Korea 🇰🇷</h3>
+
 <h3 align="center">Don't just write code — Be a developer!</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬 Connect with me:</h3>
+<p align="left">
   <a href="mailto:rosci671233@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
