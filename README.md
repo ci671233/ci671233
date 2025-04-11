@@ -91,12 +91,3 @@
 | 🏗️ **OSC 공법 시뮬레이션** | 2023.11.01 ~ 2024.12.01 | [🔗 GitHub](https://github.com/ci671233/osc_simulation) |
 | 📊 **대학 업적 평가 자동화 시스템** | 2023.07.03 ~ 2023.08.19 | [🔗 GitHub](https://github.com/ci671233/journal_csv) |
 
-
-<details>
-<summary>📊 <strong>대학 업적 평가 행정업무 자동화 시스템</strong> (2023.07.03 ~ 2023.08.19)</summary>
-
-CSV로 수합되는 교원 논문 업적을 자동 처리하고 결과 통계를 정리하는 백오피스 도구 개발
-
-🔗 [GitHub Repository](https://github.com/ci671233/journal_csv)
-</details>
-
