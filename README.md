@@ -95,9 +95,6 @@
 
 ## 🧭 Activity
 
-<details>
-<summary><b>📄 경력, 학력, 대외활동 이력 보기</b></summary>
-
 ### 💼 Internship & Research
 
 | 직책             | 기관명               | 기간                | 증빙 자료 |
@@ -105,15 +102,12 @@
 | 학부연구생, 랩장 | SysAI LAB            | 2023.07 ~ 2025.02   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/sysai_lab_certificate.pdf) |
 | 인턴 (개발팀)     | (주) 오솔정보기술     | 2024.10 ~ 2024.11   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/osol_internship.png) |
 | 인턴 (기술개발팀) | (주) 한국에너지기술단 | 2024.06 ~ 2024.08   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/kentech_internship.png) |
-
----
-
-### 🎓 Education
-
-| 학위 | 학교명                        | 기간                | 증빙 자료 |
-|------|-------------------------------|---------------------|------------|
 | 학사 | 국립한밭대학교 컴퓨터공학과   | 2023.03 ~ 2025.02   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/graduation_certificate.png) |
-| 학사 | 학점은행제 경영학   | 2021.07 ~ 2023.02   | [보기](https://github.com/ci671233/portfolio-assets/blob/main/graduation_certificate.png) |
+---
+<details>
+<summary><b>📄 대외활동 이력 보기</b></summary>
+ ### 대외활동
+
 
 </details>
 
