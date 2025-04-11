@@ -3,10 +3,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-  <a href="mailto:rosci671233@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+<a href="rosci671233@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </a>
   <a href="https://instagram.com/x_xvwx" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
