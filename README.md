@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hi, I'm CHANGIN KIM – a junior backend developer from South Korea 🇰🇷</h1>
 <h3 align="center">Don't just write code — Be a developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ci671233&label=Profile%20views&color=0e75b6&style=flat" alt="ci671233" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ci671233" alt="ci671233" /></a> </p>
-
-## 📫 Connect with me
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="mailto:rosci671233@gmail.com" target="_blank">
