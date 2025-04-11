@@ -78,3 +78,63 @@
 > ⭐⭐⭐⭐⭐⭐ : 거의 모든 상황에서 능숙히 다룸
 
 ---
+
+## 🚀 Projects
+
+<details>
+<summary>📡 <strong>네트워크 장비 모니터링 시스템</strong> (2025.03.30 ~ 2025.04.01)</summary>
+
+Kafka → Spring Boot → MySQL/MongoDB 기반의 장비 상태 수집 및 시각화 시스템  
+JWT 인증 및 WebSocket 기능 포함
+
+🔗 [GitHub Repository](https://github.com/ci671233/Network_Device_Monitoring_System)
+</details>
+
+<details>
+<summary>🧱 <strong>경량형 컨테이너 런타임</strong> (2024.01.01 ~ 2024.11.28)</summary>
+
+Go 기반의 경량형 컨테이너 런타임 구현  
+Namespace, cgroup, OCI 등 Linux 기술을 활용하여 저사양 환경 최적화
+
+🔗 [GitHub Repository](https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer)
+</details>
+
+<details>
+<summary>🤖 <strong>로봇 관제 시스템</strong> (2024.06.24 ~ 2024.08.19)</summary>
+
+AGV/AMR의 실시간 위치 추적 및 제어를 위한 관제 플랫폼 구현  
+(상세 설명은 추후 작성)
+
+🔗 [GitHub Repository](https://github.com/ci671233/FMS-AGV-AMR)
+</details>
+
+<details>
+<summary>📺 <strong>로봇 원격 제어를 위한 실시간 스트리밍 플랫폼</strong> (2024.04.01 ~ 2024.11.01)</summary>
+
+WebRTC 기반의 저지연 스트리밍 및 원격 제어 환경 구현  
+(🔗 GitHub 주소는 추후 추가 예정)
+</details>
+
+<details>
+<summary>🌿 <strong>X-ray를 활용한 스마트팜 플랫폼</strong> (2023.07.03 ~ 2024.02.28)</summary>
+
+X-ray 기반 생육 상태 분석 및 스마트팜 자동화 제어 시스템  
+(🔗 GitHub 주소는 추후 추가 예정)
+</details>
+
+<details>
+<summary>🏗️ <strong>OSC 공법 시뮬레이션</strong> (2023.11.01 ~ 2024.12.01)</summary>
+
+건축공정의 OSC 공법 적용 시뮬레이션 도구 제작  
+Spring Boot 기반 시뮬레이션 웹 앱
+
+🔗 [GitHub Repository](https://github.com/ci671233/osc_simulation)
+</details>
+
+<details>
+<summary>📊 <strong>대학 업적 평가 행정업무 자동화 시스템</strong> (2023.07.03 ~ 2023.08.19)</summary>
+
+CSV로 수합되는 교원 논문 업적을 자동 처리하고 결과 통계를 정리하는 백오피스 도구 개발
+
+🔗 [GitHub Repository](https://github.com/ci671233/journal_csv)
+</details>
