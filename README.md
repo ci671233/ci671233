@@ -1,14 +1,15 @@
-<h1 align="center">👋 Hi, I'm CHANGIN KIM</h1>
-<h3 align="center">A junior backend developer from South Korea 🇰🇷</h3>
-<h4 align="center">Don't just write code — Be a developer!</h4>
+# 👋 Hi, I'm CHANGIN KIM
+### A junior backend developer from South Korea 🇰🇷
+#### Don't just write code — Be a developer!
 
-<br/>
+---
 
-<h3 align="left">📬 Connect with me </h3>
-<a href="rosci671233@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/x_xvwx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+## 📬 Connect with me
 
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rosci671233@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_xvwx)
 
+---
 
 ## 🛠 Tech Stack
 
@@ -57,18 +58,17 @@
 | 기술 | 숙련도 |
 |------|--------|
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ⭐⭐⭐ |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  | ⭐⭐⭐ |
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ⭐⭐⭐ |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ⭐⭐⭐ |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ⭐⭐⭐ |
 | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ⭐⭐ |
 | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) | ⭐ |
-| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  | ⭐⭐⭐⭐ |
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)  | ⭐⭐⭐ |
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ⭐⭐⭐⭐ |
+| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐⭐ |
+| ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) | ⭐⭐⭐ |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ⭐⭐⭐⭐ |
 
 </td>
 </tr>
 </table>
-
 > 숙련도 기준  
 > ⭐ : 사용 경험 있음  
 > ⭐⭐ : 개인 프로젝트에 사용  
@@ -76,5 +76,5 @@
 > ⭐⭐⭐⭐ : 능숙하게 사용  
 > ⭐⭐⭐⭐⭐ : 프로젝트 주력 기술  
 > ⭐⭐⭐⭐⭐⭐ : 거의 모든 상황에서 능숙히 다룸
-
 ---
+
