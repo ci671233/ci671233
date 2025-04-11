@@ -11,7 +11,7 @@
 
 
 <h3 align="left">🛠 Tech Stack </h3>
-### 🧑‍💻 Languages
+<h4 align="left">🧑‍💻 Languages</h4>
 | 기술 | 숙련도 |
 |------|--------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐ |
@@ -21,7 +21,7 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐ |
 
 
-### 🧱 Frameworks / Libraries
+<h4 align="left">🧱 Frameworks / Libraries</h4>
 | 기술 | 숙련도 |
 |------|--------|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ⭐⭐⭐ |
@@ -30,13 +30,13 @@
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ⭐⭐ |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ⭐⭐ |
 
-### 🗄️ Databases
+<h4 align="left">🗄️ Databases</h4>
 | 기술 | 숙련도 |
 |------|--------|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ⭐⭐⭐ |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐ |
 
-### ⚙️ Tools / DevOps
+<h4 align="left">⚙️ Tools / DevOps</h4>
 | 기술 | 숙련도 |
 |------|--------|
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ⭐⭐⭐ |
