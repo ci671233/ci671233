@@ -144,6 +144,7 @@
 | TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
 </details>
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ci671233&show_icons=true&theme=github_dark" height="180px"/>
