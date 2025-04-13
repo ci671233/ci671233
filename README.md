@@ -138,7 +138,8 @@
 | 소중한봉사단    | 주강사 / 봉사       | 2024.04 ~ 2024.12           | [PDF 보기](#) |
 | 와요가요    | 주강사 / 봉사       | 2023.07 ~ 2024.12           | [보기](#) |
 | 하랑       | 동아리원 / 개발   | 2023.07 ~ 2024.02           | [🔗 GitHub](#) |
-| TBT    | 리더 / ESG 활동       | 2023.04 ~ 2023.07           | [![YouTube](https://img.shields.io/badge/-시연 영상 보기-red?style=flat-square&logo=YouTube&logoColor=white)](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
+| TBT    | 리더 / ESG 활동       | 2023.04 ~ 2023.07           | [▶️ 유튜브 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
+
 
 
 </details>
