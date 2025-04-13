@@ -12,7 +12,6 @@
 <table>
 <tr>
 <td valign="top">
-<br/>
   
 ### 🧑‍💻 Languages
 | 기술 | 숙련도 |
