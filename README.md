@@ -2,7 +2,6 @@
 <h3 align="center">A junior backend developer from South Korea 🇰🇷</h3>
 <h4 align="center">Don't just write code — Be a developer!</h4>
 
-<br/>
 ## 📬 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rosci671233@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_xvwx)
