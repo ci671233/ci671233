@@ -3,21 +3,19 @@
 <h4 align="center">Don't just write code — Be a developer!</h4>
 
 <br/>
-
-
 ## 📬 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rosci671233@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_xvwx)
-
+<br/>
 
 
 ## 🛠 Tech Stack
 <table>
 <tr>
 <td valign="top">
-
+<br/>
+  
 ### 🧑‍💻 Languages
-
 | 기술 | 숙련도 |
 |------|--------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐ |
@@ -80,7 +78,6 @@
 ---
 
 ## 🚀 Projects
-
 | 프로젝트 | 기간 | 링크 |
 |----------|------|------|
 | 📡 **네트워크 장비 모니터링 시스템** | 2025.03.30 ~ 2025.04.01 | [🔗 GitHub](https://github.com/ci671233/Network_Device_Monitoring_System) |
@@ -93,11 +90,11 @@
 | 📊 **대학 업적 평가 자동화 시스템** | 2023.07.03 ~ 2023.08.19 | [🔗 GitHub](https://github.com/ci671233/journal_csv) |
 
 ---
+<br/>
 
 ## 🧭 Activity
 
 ### 💼 Internship & Research
-
 | 직책             | 기관명               | 기간                | 경력 기술서 및 증명서 |
 |------------------|----------------------|---------------------|------------|
 | 학부연구생 | SysAI LAB | 2023.07 ~ 2025.02 | [📄 논문 모음](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/김창인_학술대회%20참가%20논문%20모음.pdf) |
@@ -105,8 +102,6 @@
 | 인턴 (기술개발팀) | (주) 한국에너지기술단 | 2024.06 ~ 2024.08   | [🔗 GitHub](https://github.com/ci671233/FMS-AGV-AMR) |
 | 학부생 (학사) | 국립한밭대학교 컴퓨터공학과 | 2023.03 ~ 2025.02 | [📄 졸업 증명서](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/김창인_국립한밭대학교_졸업증명서.pdf) |
 
-
-<br/>
 
 ### 📜 Awards & Certifications
 | 항목명 | 종류 | 발급기관 | 발급일자 | 증빙 자료 PDF |
