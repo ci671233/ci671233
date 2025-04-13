@@ -118,7 +118,7 @@
 | 제13회 작품전시회 - 동상 | Award | 한밭대학교 정보기술대학 | 2024.11.29 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/정보기술대학%20작품%20전시회_동상.pdf) |
 | 2024 추계학술대회 우수논문상 - 은상 | Award | 한국정보기술학회 | 2024.11.22 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/정보기술학회_은상.pdf) |
 | 2023 추계학술대회 우수논문발표상 - 은상 | Award | 한국시뮬레이션학회 | 2023.12.01 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/시뮬레이션학회_은상.pdf) |
-| DSC 지역인재 융합동아리 우수상 | Award | 대전세종충남지역인재플랫폼 | 2023.07.18 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/DSC%20지역인재%20융합동아리_우수상.pdf) |
+| DSC 지역인재 융합동아리 - 우수상 | Award | 대전세종충남지역인재플랫폼 | 2023.07.18 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/DSC%20지역인재%20융합동아리_우수상.pdf) |
 | 네트워크관리사 2급 | Certification | 한국정보통신자격협회 | 2022.10.18 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/김창인_네트워크관리사2급.pdf) |
 
 ### 📰 Papers
@@ -132,15 +132,14 @@
 | 이산사건 시스템 형식론 기반 OSC 공법 적용 모델 구성 및 분석   | 2023추계한국시뮬레이션학회 | 2023.12.01     | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023추계학술대회/이산사건%20시스템%20형식론%20기반%20OSC%20공법%20적용%20모델%20구성%20및%20분석_김창인.pdf) | [📑 보기](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023추계학술대회/2023추계학술대회_발표자료.pdf) |
 | 프롬프트 엔지니어링을 활용한 업무 자동화 시스템 설계 및 구축       | 2023하계전기전자학회   | 2023.08.17     | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023하계학술대회/프롬프트%20엔지니어링을%20활용한%20업무%20자동화%20시스템%20설계%20및%20구축.pdf) | [📑 보기](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023하계학술대회/2023하계학술대회_발표자료.pdf) |
 
+
 ### 🌟 Extracurricular Activities
 
-| 활동명                      | 역할 / 성격            | 기간              | 활동 내용 |
-|-----------------------------|------------------------|-------------------|------------|
-| 소중한봉사단    | 주강사 / 봉사       | 2024.04 ~ 2024.12           | [📄 보고서 모음](#) |
-| 와요가요    | 주강사 / 봉사       | 2023.07 ~ 2024.12           | [보기](#) |
-| 하랑       | 동아리원 / 개발   | 2023.07 ~ 2024.02           | [🔗 GitHub](#) |
-| TBT    | 리더 / ESG 활동       | 2023.04 ~ 2023.07           | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
-
-
+| 활동명 | 역할 / 성격 | 기간 | 활동 내용 |
+|--------|--------------|--------|-------------|
+| 소중한봉사단 | 주강사 / 봉사 | 2024.04 ~ 2024.12 | [📄 활동일지 모음](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_소중한봉사단_활동일지_모음.pdf) |
+| 와요가요 | 주강사 / 봉사 | 2023.07 ~ 2024.12 | [📄 강의 자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_와요가요_강의자료.pdf) |
+| 하랑 | 동아리원 / 개발 | 2023.07 ~ 2024.02 | [🔗 GitHub](#) |
+| TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
 </details>
