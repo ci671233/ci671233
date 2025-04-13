@@ -144,3 +144,28 @@
 | TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
 </details>
+---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ci671233&show_icons=true&theme=github_dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ci671233&layout=compact&theme=github_dark" height="180px"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ci671233&theme=dark&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## ⏰ Coding Time Insight
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ci671233&theme=github_dark" height="180px"/>
+</p>
