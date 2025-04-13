@@ -146,8 +146,9 @@
 <br></br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ci671233&show_icons=true&theme=github_dark" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ci671233&layout=compact&theme=github_dark" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ci671233&theme=dark&hide_border=true" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ci671233&theme=github_dark" height="180px"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ci671233&theme=date_night)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ci671233&theme=date_night&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ci671233&theme=date_night)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ci671233&theme=date_night)
 </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ci671233&theme=date_night)
