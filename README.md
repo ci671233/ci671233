@@ -6,7 +6,7 @@
 ## 📬 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rosci671233@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_xvwx)
-<br/>
+
 
 
 ## 🛠 Tech Stack
