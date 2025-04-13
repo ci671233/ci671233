@@ -88,7 +88,7 @@
 | 📺 **WebRTC 로봇 원격 제어 스트리밍 플랫폼** | 2024.04.01 ~ 2024.11.01 | [🔗 GitHub] (사내보안 소스코드 비공개) |
 | 🤖 **로봇 관제 시스템** | 2024.06.24 ~ 2024.08.19 | [🔗 GitHub](https://github.com/ci671233/FMS-AGV-AMR) |
 | 🕹️ **메타버스 게임 서버** | 2024.01.01 ~ 2024.06.24 | [🔗 GitHub](https://github.com/ci671233/MetaverseGameServer_portfolio_ver.git) |
-| 🌿 **X-ray 스마트팜 플랫폼** | 2023.07.03 ~ 2023.12.18 | [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
+| 🌿 **X-ray 스마트팜 플랫폼** | 2023.07.03 ~ 2023.12.18 | [📄 보고서 보기](https://github.com/ci671233/portfolio-assets/blob/main/report/다학제간캡스톤1_결과보고서.pdf) [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
 | 🏗️ **OSC 공법 시뮬레이션** | 2023.11.01 ~ 2023.12.01 | [🔗 GitHub](https://github.com/ci671233/osc_simulation) |
 | 📊 **대학 업적 평가 자동화 시스템** | 2023.07.03 ~ 2023.08.19 | [🔗 GitHub](https://github.com/ci671233/journal_csv) |
 
