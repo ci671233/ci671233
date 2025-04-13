@@ -87,7 +87,7 @@
 | 🧱 **경량형 컨테이너 런타임** | 2024.01.01 ~ 2024.11.28 | [🔗 GitHub](https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer) |
 | 🤖 **로봇 관제 시스템** | 2024.06.24 ~ 2024.08.19 | [🔗 GitHub](https://github.com/ci671233/FMS-AGV-AMR) |
 | 📺 **WebRTC 로봇 원격 제어 스트리밍 플랫폼** | 2024.04.01 ~ 2024.11.01 | 🔗 GitHub (사내보안 소스코드 비공개) |
-| 🌿 **X-ray 스마트팜 플랫폼** | 2023.07.03 ~ 2024.02.28 | [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM) |
+| 🌿 **X-ray 스마트팜 플랫폼** | 2023.07.03 ~ 2024.02.28 | [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
 | 🏗️ **OSC 공법 시뮬레이션** | 2023.11.01 ~ 2024.12.01 | [🔗 GitHub](https://github.com/ci671233/osc_simulation) |
 | 📊 **대학 업적 평가 자동화 시스템** | 2023.07.03 ~ 2023.08.19 | [🔗 GitHub](https://github.com/ci671233/journal_csv) |
 
@@ -139,7 +139,7 @@
 |--------|--------------|--------|-------------|
 | 소중한봉사단 | 주강사 / 봉사 | 2024.04 ~ 2024.12 | [📄 활동일지 모음](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_소중한봉사단_활동일지_모음.pdf) |
 | 와요가요 | 주강사 / 봉사 | 2023.07 ~ 2024.12 | [📄 강의 자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_와요가요_강의자료.pdf) |
-| 하랑 | 동아리원 / 개발 | 2023.07 ~ 2024.02 | [🔗 GitHub](#) |
+| 하랑 | 동아리원 / 개발 | 2023.07 ~ 2024.02 | [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
 | TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
 </details>
