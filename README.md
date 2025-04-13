@@ -105,13 +105,10 @@
 | 인턴 (기술개발팀) | (주) 한국에너지기술단 | 2024.06 ~ 2024.08   | [🔗 GitHub](https://github.com/ci671233/FMS-AGV-AMR) |
 | 학부생 (학사) | 국립한밭대학교 컴퓨터공학과 | 2023.03 ~ 2025.02 | [📄 졸업 증명서](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/김창인_국립한밭대학교_졸업증명서.pdf) |
 
-<details>
-<summary><b>📄 etc</b></summary>
 
 <br/>
 
 ### 📜 Awards & Certifications
-
 | 항목명 | 종류 | 발급기관 | 발급일자 | 증빙 자료 PDF |
 |--------|------|----------|----------|----------------|
 | 제13회 작품전시회 - 동상 | Award | 한밭대학교 정보기술대학 | 2024.11.29 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/정보기술대학%20작품%20전시회_동상.pdf) |
@@ -121,7 +118,6 @@
 | 네트워크관리사 2급 | Certification | 한국정보통신자격협회 | 2022.10.18 | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/awards_certifications/김창인_네트워크관리사2급.pdf) |
 
 ### 📰 Papers
-
 | 제목                                                         | 학술대회명         | 발표일자       | 논문 PDF | 발표자료 PDF |
 |--------------------------------------------------------------|--------------------|----------------|----------|---------------|
 | 경량형 컨테이너 기반 WebRTC 원격 로봇 제어 시스템의 설계 및 시뮬레이션   | 2024추계한국시뮬레이션학회 | 2024.11.29     | [📄 보기](https://github.com/ci671233/portfolio-assets/blob/main/conference/2024추계학술대회/시뮬레이션학회/경량형%20컨테이너%20기반%20WebRTC%20원격%20로봇%20제어%20시스템의%20설계%20및%20시뮬레이션.pdf) |  |
@@ -133,7 +129,6 @@
 
 
 ### 🌟 Extracurricular Activities
-
 | 활동명 | 역할 / 성격 | 기간 | 활동 내용 |
 |--------|--------------|--------|-------------|
 | 소중한봉사단 | 주강사 / 봉사 | 2024.04 ~ 2024.12 | [📄 활동일지 모음](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_소중한봉사단_활동일지_모음.pdf) |
@@ -141,7 +136,6 @@
 | 하랑 | 동아리원 / 개발 | 2023.07 ~ 2024.02 | [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
 | TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
-</details>
 
 
 <p align="center">
