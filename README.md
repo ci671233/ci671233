@@ -90,7 +90,6 @@
 ---
 <br/>
 
-## 🧭 Activity
 
 ### 💼 Internship & Research
 | 직책             | 기관명               | 기간                | 경력 기술서 및 증명서 |
@@ -130,6 +129,7 @@
 | TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
 
+<br/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ci671233&theme=date_night" />
