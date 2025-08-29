@@ -19,7 +19,7 @@
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐ |
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐ |
 | ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ⭐⭐ |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐ |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐ |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐ |
 
 </td>
@@ -29,8 +29,8 @@
 
 | 기술 | 숙련도 |
 |------|--------|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ⭐⭐⭐ |
-| ![Gin](https://img.shields.io/badge/Gin-00B386?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐ |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ⭐⭐ |
+| ![Gin](https://img.shields.io/badge/Gin-00B386?style=flat-square&logo=go&logoColor=white) | ⭐⭐ |
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ⭐⭐⭐ |
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ⭐⭐ |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ⭐⭐ |
