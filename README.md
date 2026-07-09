@@ -92,7 +92,7 @@
 ### 💼 Internship & Research
 | 직책             | 기관명               | 기간                | 경력 기술서 및 증명서 |
 |------------------|----------------------|---------------------|------------|
-| 책임 | (주)모비젠 | 2025.05 ~ |  |
+| 프로-사원 (공공·국방 AI 사업본부 / AX-Ops팀) | (주)모비젠 | 2025.05 ~ 2026.06 |  |
 | 학부연구생 | SysAI LAB | 2023.07 ~ 2025.02 | [📄 논문 모음](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/김창인_학술대회%20참가%20논문%20모음.pdf) |
 | 인턴 (개발팀) | (주) 오솔정보기술 | 2024.10 ~ 2024.11 | [📄 최종 보고서](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/오솔정보기술_인턴결과보고서.pdf) |
 | 인턴 (기술개발팀) | (주) 한국에너지기술단 | 2024.06 ~ 2024.08   | [🔗 GitHub](https://github.com/ci671233/FMS-AGV-AMR) |
