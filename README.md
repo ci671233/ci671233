@@ -11,9 +11,9 @@
 ## 🚀 Projects
 | 기간 | 소속 | 발주처/특징 | 프로젝트 | 자료 |
 |---|---|---|---|---|
-| 2026.11 | 개인 | - | 법령 탐색 서비스 | [📄발표자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/법령탐색서비스.pdf) |
+| 2026.11 | 개인 | - | 법령 탐색 서비스 | [📄내용](https://github.com/ci671233/portfolio-assets/blob/main/etc/법령탐색서비스.pdf) |
 | 2026.06~08 | 팜바톤 | 공공데이터·AI 활용 | 농장 승계 진단 매칭 플랫폼 | [📄발표자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/농업농촌공공데이터AI창업경진대회_팜바톤_발표자료.pdf) <br>[🔗GitHub](https://github.com/wjdgnsdl213/FarmBaton.git) |
-| 2026.09 | 개인 | - | AI 챗봇 동반자 | [📄발표자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/AI챗봇동반자.pdf) |
+| 2026.09 | 개인 | - | AI 챗봇 동반자 | [📄내용](https://github.com/ci671233/portfolio-assets/blob/main/etc/AI챗봇동반자.pdf) |
 | 2026.07~08 | (주)다우텔레콤 | 국방과학연구소 | OS 마이그레이션 및 인프라 전환 | [📄업무내용](https://github.com/ci671233/portfolio-assets/blob/main/etc/OS마이그레이션및인프라전환.pdf) |
 | 2026.01~06 | (주)모비젠 | 한국교육학술정보원 | 교육데이터 안심구역 고도화 및 안정화 | [📄기술회고](https://github.com/ci671233/portfolio-assets/blob/main/etc/교육데이터안심구역고도화.pdf) |
 | 2026.01~06 | (주)모비젠 | 국토교통부 | 국토교통 데이터 통합채널 및 통계누리시스템 통합 위탁운영 | [📄기술회고](https://github.com/ci671233/portfolio-assets/blob/main/etc/국토교통데이터통합채널및통계누리시스템통합위탁운영.pdf) |
