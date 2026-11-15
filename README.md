@@ -29,7 +29,7 @@
 | 2023.12 | SYSAI 연구실 | 추계한국시뮬레이션학회<br>학술대회참가 | 이산사건 시스템 형식론 기반 OSC 공법 적용 모델 구성 및 분석 | [📄논문](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023추계학술대회/이산사건%20시스템%20형식론%20기반%20OSC%20공법%20적용%20모델%20구성%20및%20분석_김창인.pdf) <br>[📑발표자료](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023추계학술대회/2023추계학술대회_발표자료.pdf)|
 | 2023.07~12 | SYSAI 연구실 | 연구동아리 | X-ray 스마트팜 플랫폼 | [📄 보고서](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/다학제간캡스톤1_결과보고서.pdf) <br>[🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
 | 2023.08 | SYSAI 연구실 | 하계한국전기전자학회<br>학술대회참가 | 프롬프트 엔지니어링을 활용한 업무 자동화 시스템 설계 및 구축 | [📄논문](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023하계학술대회/프롬프트%20엔지니어링을%20활용한%20업무%20자동화%20시스템%20설계%20및%20구축.pdf) <br>[📑발표자료](https://github.com/ci671233/portfolio-assets/blob/main/conference/2023하계학술대회/2023하계학술대회_발표자료.pdf)|
-| 2023.07~졸업 | 국립한밭대학교 | 봉사활동 | SW봉사단, 와요가요 | [📄 강의자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_와요가요_강의자료.pdf) |
+| 2023.07~ | 국립한밭대학교 | 봉사활동 | SW봉사단, 와요가요 | [📄강의자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_와요가요_강의자료.pdf) |
 
 ---
 
