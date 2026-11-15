@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm CHANGIN KIM</h1>
-<h3 align="center">A junior backend developer from South Korea 🇰🇷</h3>
+<h3 align="center">A junior developer from South Korea 🇰🇷</h3>
 <h4 align="center">Don't just write code — Be a developer!</h4>
 
 ## 📬 Connect with me
