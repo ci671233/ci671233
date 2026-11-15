@@ -35,9 +35,7 @@
 ### 🌟 Extracurricular Activities
 | 활동명 | 역할 / 성격 | 기간 | 활동 내용 |
 |--------|--------------|--------|-------------|
-| 소중한봉사단 | 주강사 / 봉사 | 2024.04 ~ 2024.12 | [📄 활동일지 모음](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_소중한봉사단_활동일지_모음.pdf) |
-| 와요가요 | 주강사 / 봉사 | 2023.07 ~ 2024.12 | [📄 강의 자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_와요가요_강의자료.pdf) |
-| 하랑 | 동아리원 / 개발 | 2023.07 ~ 2024.02 | [📄 보고서 보기](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/다학제간캡스톤1_결과보고서.pdf) |
+| 소중한봉사단, 와요가요 | 주강사 / 봉사 | 2023.07 ~ 2024.12 | [📄 강의 자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/김창인_와요가요_강의자료.pdf)  |
 | TBT | 리더 / ESG 활동 | 2023.04 ~ 2023.07 | [▶️ 활동 영상](https://youtu.be/ppgNYbDdH5g?si=2PriC3nv7gTNwha8) |
 
 ---
