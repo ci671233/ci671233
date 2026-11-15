@@ -22,7 +22,7 @@
 | 2025.05~12 | (주)모비젠 | 한국교육학술정보원 | 교육행정통합데이터 플랫폼 데이터 분석 및 시각화 구현 | ~~~~ |
 | 2025.08~12 | (주)모비젠 | 사내세미나 | 도시 빅데이터 연계·공유체계 구축 및 고도화 | ~~~~ |
 | 2025.09 | (주)모비젠 | 사내세미나 | 증강생성기술 기반 챗봇 설계 및 활용 | 자료 정리 중 |
-| 2025.08 | (주)모비젠 | 사내세미나 | 교육 데이터 챗봇 & 시계열 예측 자동화 시스템 | [📄발표자료](네트워크장비모니터링시스템_발표자료.pdf) <br>[🔗GitHub](https://github.com/ci671233/cbci_mcp) <br>[🔗GitHub](https://github.com/ci671233/tfci) <br>[🔗GitHub](https://github.com/ci671233/EduDashboard-AIAgent) |
+| 2025.08 | (주)모비젠 | 사내세미나 | 교육 데이터 챗봇 & 시계열 예측 자동화 시스템 | [📄발표자료](네트워크장비모니터링시스템_발표자료.pdf) <br>[🔗GitHub](https://github.com/ci671233/cbci_mcp) <br>[🔗GitHub](https://github.com/ci671233/tfci) |
 | 2025.03~04 | 개인 | - | 네트워크 장비 모니터링 시스템 | [📄발표자료](네트워크장비모니터링시스템_발표자료.pdf) <br>[🔗GitHub](https://github.com/ci671233/Network_Device_Monitoring_System) |
 | 2025.01~02 | 개인 | - | 대학 업적 평가 자동화 시스템 | [📄발표자료](https://github.com/ci671233/portfolio-assets/blob/main/etc/대학업적평가자동화시스템_발표자료.pdf) <br>[🔗GitHub](https://github.com/ci671233/journal_csv.git) |
 | 2024.03~12 | SYSAI 연구실 | 졸업작품 | 경량형 컨테이너 런타임 | [🔗 GitHub](https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer) |
