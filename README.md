@@ -23,8 +23,7 @@
 | 2024.10~11 | (주)오솔정보기술 | [산학협력프로젝트]실시간 스트리밍 기술을 활용한 로봇 원격 제어 시스템 | ~~~~ | [📄 보고서 보기](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/오솔정보기술_인턴결과보고서.pdf) |
 | 2024.06~08 | (주)한국에너지기술단 | AGV, AMR의 효율적인 관리를 위한 FMS 개발 | ~~~~ |[🔗 GitHub](https://github.com/ci671233/FMS-AGV-AMR) |
 | 2024.01~06 | SYSAI 연구실 | 메타버스 게임 서버 | ~~~~ | [🔗 GitHub](https://github.com/ci671233/MetaverseGameServer_portfolio_ver.git) |
-| 2023.07~12 | SYSAI 연구실 | X-ray 스마트팜 플랫폼 | ~~~~ | [📄 보고서 보기](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/다학제간캡스톤1_결과보고서.pdf)
-[🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
+| 2023.07~12 | SYSAI 연구실 | X-ray 스마트팜 플랫폼 | ~~~~ | [📄 보고서 보기](https://github.com/ci671233/portfolio-assets/blob/main/internship_research/다학제간캡스톤1_결과보고서.pdf)     [🔗 GitHub](https://github.com/ci671233/X-RAY_SMARTFARM_portfolio_ver.git) |
 | 2024.03~04 | SYSAI 연구실 | 네트워크 장비 모니터링 시스템 | ~~~~ | ~~~~ |
 
 ### 📰 Papers
